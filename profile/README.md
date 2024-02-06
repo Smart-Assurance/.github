@@ -31,9 +31,9 @@ The automotive insurance sector is continuously evolving, constantly seeking way
 
 ## Design:
 ### 📦 Package Diagram:
-<img src="package_diagram.png" alt="Package Diagram" style="max-width: 100%; height: auto;">
+![Package Diagram](package_diagram.png)
 ### 🏗️ Project's Overall Architecture:
-<img src="overall_architecture.png" alt="Overall Architecture" style="max-width: 100%; height: auto;">
+![Overall Architecture](overall_architecture.png)
 
 ## Web Application and Technologies Used:
 
@@ -50,8 +50,8 @@ MongoDB is a NoSQL database program that uses JSON-like documents with optional 
 We have chosen Google Cloud Platform (GCP) for our cloud infrastructure. Our DevOps setup includes Jenkins for continuous integration, Docker for containerization, Terraform for infrastructure as code, and Bash scripting for automation.
 
 ### 🛠️ Infrastructure Architecture:
-<img src="./infrastructure_architecture.png" alt="Infrastructure Architecture" style="max-width: 100%; height: auto;">
-<img src="infrastructure_architecture_2.png" alt="Infrastructure Architecture" style="max-width: 100%; height: auto;">
+![Infrastructure Architecture](infrastructure_architecture.png)
+![Infrastructure Architecture](infrastructure_architecture_2.png)
 
 ### Google Cloud Platform (GCP):
 Google Cloud Platform is a suite of cloud computing services provided by Google.
@@ -74,8 +74,8 @@ Bash scripting is a scripting language used to automate tasks in a Linux environ
 For blockchain development, we utilize Ethereum, Solidity smart contracts, Hardhat for development environment, Etherscan for blockchain explorer, and MetaMask for wallet integration. One of the use cases of blockchain in our project is payment processing.
 
 ### 💸 Payment Use Case:
-<img src="payment_use_case.png" alt="Payment Use Case" style="max-width: 100%; height: auto;">
-<img src="payment_use_case_2.png" alt="Payment Use Case" style="max-width: 100%; height: auto;">
+![Payment Use Case](payment_use_case.png)
+![Payment Use Case](payment_use_case_2.png)
 
 ### Ethereum:
 Ethereum is an open-source, blockchain-based platform that enables developers to build decentralized applications.
