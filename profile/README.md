@@ -50,7 +50,7 @@ MongoDB is a NoSQL database program that uses JSON-like documents with optional 
 We have chosen Google Cloud Platform (GCP) for our cloud infrastructure. Our DevOps setup includes Jenkins for continuous integration, Docker for containerization, Terraform for infrastructure as code, and Bash scripting for automation.
 
 ### 🛠️ Infrastructure Architecture:
-<img src="infrastructure_architecture.png" alt="Infrastructure Architecture" style="max-width: 100%; height: auto;">
+<img src="./infrastructure_architecture.png" alt="Infrastructure Architecture" style="max-width: 100%; height: auto;">
 <img src="infrastructure_architecture_2.png" alt="Infrastructure Architecture" style="max-width: 100%; height: auto;">
 
 ### Google Cloud Platform (GCP):
