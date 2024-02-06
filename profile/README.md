@@ -31,13 +31,11 @@ The automotive insurance sector is continuously evolving, constantly seeking way
 
 ## Design:
 ### 📦 Package Diagram:
-![Package Diagram](package_diagram.png)
+<img src="package_diagram.png" alt="Package Diagram" style="max-width: 100%; height: auto;">
 ### 🏗️ Project's Overall Architecture:
-![Overall Architecture](overall_architecture.png)
+<img src="overall_architecture.png" alt="Overall Architecture" style="max-width: 100%; height: auto;">
 
 ## Web Application and Technologies Used:
-
-![Project Architecture](project_architecture.png)
 
 ### Angular:
 Angular is a platform and framework for building single-page client applications using HTML and TypeScript.
@@ -52,8 +50,8 @@ MongoDB is a NoSQL database program that uses JSON-like documents with optional 
 We have chosen Google Cloud Platform (GCP) for our cloud infrastructure. Our DevOps setup includes Jenkins for continuous integration, Docker for containerization, Terraform for infrastructure as code, and Bash scripting for automation.
 
 ### 🛠️ Infrastructure Architecture:
-![Infrastructure Architecture](infrastructure_architecture.png)
-![Infrastructure Architecture](infrastructure_architecture_2.png)
+<img src="infrastructure_architecture.png" alt="Infrastructure Architecture" style="max-width: 100%; height: auto;">
+<img src="infrastructure_architecture_2.png" alt="Infrastructure Architecture" style="max-width: 100%; height: auto;">
 
 ### Google Cloud Platform (GCP):
 Google Cloud Platform is a suite of cloud computing services provided by Google.
@@ -76,8 +74,8 @@ Bash scripting is a scripting language used to automate tasks in a Linux environ
 For blockchain development, we utilize Ethereum, Solidity smart contracts, Hardhat for development environment, Etherscan for blockchain explorer, and MetaMask for wallet integration. One of the use cases of blockchain in our project is payment processing.
 
 ### 💸 Payment Use Case:
-![Payment Use Case](payment_use_case.png)
-![Payment Use Case](payment_use_case_2.png)
+<img src="payment_use_case.png" alt="Payment Use Case" style="max-width: 100%; height: auto;">
+<img src="payment_use_case_2.png" alt="Payment Use Case" style="max-width: 100%; height: auto;">
 
 ### Ethereum:
 Ethereum is an open-source, blockchain-based platform that enables developers to build decentralized applications.
@@ -96,6 +94,3 @@ MetaMask is a cryptocurrency wallet and gateway to blockchain apps.
 
 ## Recommendation System:
 Introduction to the recommendation system will be provided here (currently empty).
-
----
-This README provides an overview of the Smart Auto Insurance project, detailing our team, project objectives, design, technologies used, DevOps setup, blockchain integration, and future recommendations. For more information, please refer to our documentation or reach out to the team members.
