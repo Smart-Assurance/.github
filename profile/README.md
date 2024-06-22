@@ -26,14 +26,14 @@
   - LinkedIn: [Lotfi Elaachak](https://www.linkedin.com/in/lotfi-elaachak-a9202324/)
 
 ## Introduction:
-![Screenshot of Landing Page](landing_page_screenshot.png)
+![Screenshot of Landing Page](../landing_page_screenshot.png)
 The automotive insurance sector is continuously evolving, constantly seeking ways to improve risk management and enhance process efficiency. In this context, our project aims to design and implement an intelligent, decentralized web application for automotive insurance using blockchain technology and a microservices architecture. This innovative approach seeks to fundamentally transform the way automotive insurance is managed by offering greater transparency, enhanced security, and increased agility.
 
 ## Design:
 ### 📦 Package Diagram:
-![Package Diagram](package_diagram.png)
+![Package Diagram](../package_diagram.png)
 ### 🏗️ Project's Overall Architecture:
-![Overall Architecture](overall_architecture.png)
+![Overall Architecture](../overall_architecture.png)
 
 ## Web Application and Technologies Used:
 
@@ -50,8 +50,8 @@ MongoDB is a NoSQL database program that uses JSON-like documents with optional 
 We have chosen Google Cloud Platform (GCP) for our cloud infrastructure. Our DevOps setup includes Jenkins for continuous integration, Docker for containerization, Terraform for infrastructure as code, and Bash scripting for automation.
 
 ### 🛠️ Infrastructure Architecture:
-![Infrastructure Architecture](infrastructure_architecture.png)
-![Infrastructure Architecture](infrastructure_architecture_2.png)
+![Infrastructure Architecture](../infrastructure_architecture.png)
+![Infrastructure Architecture](../infrastructure_architecture_2.png)
 
 ### Google Cloud Platform (GCP):
 Google Cloud Platform is a suite of cloud computing services provided by Google.
@@ -74,8 +74,8 @@ Bash scripting is a scripting language used to automate tasks in a Linux environ
 For blockchain development, we utilize Ethereum, Solidity smart contracts, Hardhat for development environment, Etherscan for blockchain explorer, and MetaMask for wallet integration. One of the use cases of blockchain in our project is payment processing.
 
 ### 💸 Payment Use Case:
-![Payment Use Case](payment_use_case.png)
-![Payment Use Case](payment_use_case_2.png)
+![Payment Use Case](../payment_use_case.png)
+![Payment Use Case](../payment_use_case_2.png)
 
 ### Ethereum:
 Ethereum is an open-source, blockchain-based platform that enables developers to build decentralized applications.
